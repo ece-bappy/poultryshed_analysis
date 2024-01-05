@@ -1,3 +1,4 @@
+# this code adds day no in the main CSV as day wasn't taken as input while logging.
 import csv
 
 
