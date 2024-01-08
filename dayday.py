@@ -11,8 +11,8 @@ def calculate_day(prev_hour, current_hour, prev_day):
 
 
 # Input and output file paths
-input_file_path = "output.csv"
-output_file_path = "output_file.csv"
+input_file_path = "final.csv"
+output_file_path = "final_data.csv"
 
 # Read CSV file and update day column
 with open(input_file_path, "r") as infile, open(
