@@ -1,4 +1,4 @@
-Time,Temperature,Humidity,Gas Level,Day,Day
+Time,Temperature,Humidity,Gas Level,Day
 00:00,23.45,55.17,0.0,1
 00:01,23.53,55.0,0.0,1
 00:02,23.55,55.0,0.0,1
