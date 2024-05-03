@@ -1,0 +1,73 @@
+Hour,Parameter,Standard Deviation,Variance
+0,Temperature,0.49,0.24
+0,Humidity,0.92,0.85
+0,Gas Level,0.52,0.27
+1,Temperature,0.57,0.32
+1,Humidity,0.9,0.8
+1,Gas Level,0.59,0.35
+2,Temperature,0.6,0.37
+2,Humidity,0.89,0.79
+2,Gas Level,0.78,0.61
+3,Temperature,0.82,0.68
+3,Humidity,0.89,0.8
+3,Gas Level,0.72,0.52
+4,Temperature,0.86,0.74
+4,Humidity,0.96,0.93
+4,Gas Level,0.63,0.4
+5,Temperature,0.8,0.63
+5,Humidity,1.04,1.08
+5,Gas Level,0.27,0.07
+6,Temperature,0.76,0.58
+6,Humidity,1.11,1.23
+6,Gas Level,0.25,0.06
+7,Temperature,0.86,0.75
+7,Humidity,0.77,0.59
+7,Gas Level,0.28,0.08
+8,Temperature,0.88,0.77
+8,Humidity,1.05,1.1
+8,Gas Level,0.22,0.05
+9,Temperature,1.11,1.23
+9,Humidity,0.81,0.66
+9,Gas Level,0.27,0.07
+10,Temperature,1.56,2.43
+10,Humidity,1.37,1.87
+10,Gas Level,0.93,0.87
+11,Temperature,1.45,2.11
+11,Humidity,1.9,3.62
+11,Gas Level,0.96,0.93
+12,Temperature,1.57,2.47
+12,Humidity,2.0,3.98
+12,Gas Level,0.94,0.88
+13,Temperature,1.61,2.59
+13,Humidity,1.96,3.83
+13,Gas Level,0.93,0.86
+14,Temperature,1.87,3.49
+14,Humidity,1.63,2.65
+14,Gas Level,0.93,0.86
+15,Temperature,1.91,3.64
+15,Humidity,2.06,4.24
+15,Gas Level,0.76,0.58
+16,Temperature,1.27,1.6
+16,Humidity,2.09,4.38
+16,Gas Level,0.9,0.81
+17,Temperature,1.23,1.5
+17,Humidity,2.34,5.46
+17,Gas Level,0.88,0.78
+18,Temperature,1.27,1.61
+18,Humidity,2.03,4.14
+18,Gas Level,0.77,0.6
+19,Temperature,1.2,1.43
+19,Humidity,2.34,5.5
+19,Gas Level,0.76,0.57
+20,Temperature,1.09,1.2
+20,Humidity,2.56,6.53
+20,Gas Level,1.03,1.07
+21,Temperature,0.95,0.9
+21,Humidity,2.13,4.55
+21,Gas Level,0.74,0.54
+22,Temperature,0.75,0.56
+22,Humidity,1.97,3.86
+22,Gas Level,0.44,0.2
+23,Temperature,0.68,0.46
+23,Humidity,1.43,2.04
+23,Gas Level,0.9,0.8
